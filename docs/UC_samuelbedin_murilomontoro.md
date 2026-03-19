@@ -1,3 +1,4 @@
+![alt text](DUC_samuelbedin_murilomontoro.png)
 
 ## UC01 — Cadastrar Novo Aluno
 
