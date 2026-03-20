@@ -1,3 +1,5 @@
+<img width="572" height="1972" alt="image" src="https://github.com/user-attachments/assets/40d9780c-a32a-434e-a0b2-21315241f2ae" />
+
 # Documento de Casos de Uso Completos — Sistema FitPass
 
 Este documento detalha os 20 casos de uso do sistema **FitPass**, preenchidos com informações detalhadas sobre fluxos, requisitos e regras de negócio, seguindo o modelo padrão solicitado.
